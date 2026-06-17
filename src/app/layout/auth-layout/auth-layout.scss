@@ -1,0 +1,29 @@
+.auth-wrapper {
+  min-height: 100vh;
+  background: #f4f7fc;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+}
+
+.auth-container {
+  width: 100%;
+  max-width: 500px;
+}
+
+.auth-brand {
+  text-align: center;
+  margin-bottom: 30px;
+
+  h1 {
+    font-size: 3rem;
+    font-weight: 700;
+  }
+
+  p {
+    color: #6c757d;
+  }
+}

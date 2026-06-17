@@ -12,5 +12,6 @@ import { Sidebar } from './sidebar/sidebar';
   ],
   templateUrl: './main-layout.html',
   styleUrl: './main-layout.scss',
+  standalone:true
 })
 export class MainLayout {}
